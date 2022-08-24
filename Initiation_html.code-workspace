@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\moncv"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\renadeli"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Initiation_html"
+	}
+}
