@@ -11,6 +11,10 @@ $bg-color : #00c6c6;
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 @mixin shadow {
     text-shadow: 1px 1px 5px black;
 }
